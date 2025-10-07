@@ -5,6 +5,6 @@
 🚀 Interested in **Data Science**, **AI**, and **Mobile Development**.  
 
 🌱 I’m currently working on improving my data structures and algorithms skills.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/) *(linkini buraya ekle)*  
+📫 Reach me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammet-tokuc-77576032a/)) 
 
 ⭐ Check out my repositories below!
